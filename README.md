@@ -26,7 +26,15 @@ Mira **Deployment** (Despliegue) para conocer como desplegar el proyecto.
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Da un ejemplo
+XAMPP --> Se adquiere en la página original (https://www.apachefriends.org/es/download.html), se necesita para poder visualizar el proyecto.
+
+GITHUB --> (https://github.com/) Es necesario clonar el repositorio en local para poder editar y utilizar el proyecto.
+
+GIT BASH --> Se adquiere en la página oficial (https://git-scm.com/), se necesita para poder efectuar comandos en el Terminal de Visual Studio Code.
+
+VISUAL STUDIO CODE --> Se adquiere en la página original (https://code.visualstudio.com/), se necesita para editar el código del proyecto.
+
+MYSQLI --> Se instala en el XAMPP, se utiliza para la Base de Datos.
 ```
 
 ### Instalación 🔧
