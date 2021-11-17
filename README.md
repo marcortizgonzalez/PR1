@@ -1,6 +1,6 @@
 # RICK-DECKARD21
 
-Proyecto DAW2, creación de una página web de reservas para un restaurante. Las reservas quedarán registradas en un historial para poder hacer futuras estádisticas del restaurante.
+Proyecto de DAW2 que consiste en la creación de una página web de reservas para ser utilizado por los trabajadores de un restaurante. Las reservas quedarán registradas en un historial para poder hacer futuras estádisticas de las reservas.
 
 Para poder usar el proyecto se utilizan estos Uusarios y Contraseñas:
 
