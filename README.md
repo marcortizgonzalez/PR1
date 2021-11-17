@@ -1,9 +1,8 @@
 # RICK-DECKARD21
 
-*Integrantes del grupo:*
-Marc Ortiz, 
-Miguel Gras, 
-Cristian Guerrero
+Proyecto DAW2, creación de una página web de reservas para un restaurante. Las reservas quedarán registradas en un historial para poder hacer futuras estádisticas del restaurante.
+
+Para poder usar el proyecto se utilizan estos Uusarios y Contraseñas:
 
 *USUARIO -> CONTRASEÑA*
 
