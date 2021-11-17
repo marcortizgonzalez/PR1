@@ -59,8 +59,6 @@ _Instalación de la base de datos_
 4. Ya podemos utilizar el proyecto correctamente ya que tendremos la base de datos instalada.
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
 
 ### Analice las pruebas end-to-end 🔩
 
