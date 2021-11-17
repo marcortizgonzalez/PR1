@@ -38,18 +38,25 @@ MYSQLI --> Se instala en el XAMPP, se utiliza para la Base de Datos.
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_Clonación del proyecto en local_
 
 ```
-hasta finalizar 
+1. Importamos el repositorio en nuestro github a través de la opción Import Repository.
+2. En github, en el apartado de '<>code' pulsamos en el botón verde 'Code' y copiamos el HTTPS del proyecto para poder clonarlo en local.
+3. Nos vamos a Visual Studio Code y nos colocamos dentro de la dirección del XAMPP (\xampp\htdocs\www) para poder ver el proyecto en Localhost.
+4. Abrimos el Terminal y introducimos el siguiente comando: git clone 'HTTPS copiado anteriormente' .
+5. Una vez clonado ya tendremos el proyecto en local y podremos utilizarlo usando localhost.
+
+```
+
+_Instalación de la base de datos_
+
+```
+1. Para poder usar el proyecto necesitaremos tener la base de datos instalada en nuestro phpMyAdmin, la base de datos del proyecto se encuentra en la carpeta BD.
+2. Nos dirigimos al phpMyAdmin y le damos a Importar, para importar la base de datos.
+3. Seleccionamos el archivo que contiene la creación de la base de datos y ya la tendremos instalada en nuestro phpMyAdmin.
+4. Ya podemos utilizar el proyecto correctamente ya que tendremos la base de datos instalada.
 ```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
