@@ -78,11 +78,8 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Visual Studio Code](https://code.visualstudio.com/) - Editor de código
+* [phpMyAdmin](https://www.phpmyadmin.net/) - Creacion de la base de datos
 
 ## Contribuyendo 🖇️
 
@@ -94,16 +91,17 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Versión 0.1.59
 
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [dannylarrea](https://github.com/dannylarrea)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Marc Ortiz** - *Trabajo Inicial* - [marcortizgonzalez](https://github.com/marcortizgonzalez)
+* **Miguel Gras** - *Trabajo Inicial* - [MiguelGras](https://github.com/MiguelGras)
+* **Cristian Guerrero** - *Trabajo Inicial* - [CristianGuerreroRioja](https://github.com/CristianGuerreroRioja)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/dannylarrea/RICK-DECKARD21/graphs/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
