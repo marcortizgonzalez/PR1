@@ -22,7 +22,7 @@ Mira **Deployment** (Despliegue) para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Cosas que necesitas para instalar el software:_
 
 ```
 XAMPP --> Se adquiere en la página original (https://www.apachefriends.org/es/download.html), se necesita para poder visualizar el proyecto.
