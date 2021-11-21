@@ -62,7 +62,7 @@ _Instalación de la base de datos_
 
 ## Despliegue 📦
 
-Puedes probarla en este enlace: [(pr1-marcortiz.infinityfreeapp.com)]
+Puedes probarla en este [enlace](http://pr1-marcortiz.infinityfreeapp.com).
 
 Usuario y contra para probar en el hosting: 
 
