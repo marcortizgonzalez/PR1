@@ -63,6 +63,9 @@ _Instalación de la base de datos_
 ## Despliegue 📦
 
 _Agrega notas adicionales sobre como hacer deploy_
+Puedes probarla en pr1-marcortiz.infinityfreeapp.com
+
+Usuario y contra
 
 ## Construido con 🛠️
 
