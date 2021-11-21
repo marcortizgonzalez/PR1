@@ -79,7 +79,7 @@ Por favor lee el [CONTRIBUTING.md](https://github.com/marcortizgonzalez/PR1/blob
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/marcortizgonzalez/PR1/blob/main/README.md)
 
 ## Versionado 📌
 
