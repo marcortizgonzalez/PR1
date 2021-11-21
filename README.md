@@ -62,10 +62,11 @@ _Instalación de la base de datos_
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
-Puedes probarla en pr1-marcortiz.infinityfreeapp.com
+_Puedes probarla en_ (pr1-marcortiz.infinityfreeapp.com)
 
-Usuario y contra
+Usuario y contra para probar en el hosting: 
+
+marc@gmail.com   -->   qwe12345
 
 ## Construido con 🛠️
 
