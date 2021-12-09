@@ -26,8 +26,8 @@ SET time_zone = "+00:00";
 --
 -- Estructura de tabla para la tabla `tbl_historial`
 --
-CREATE DATABASE bd_taules;
-USE bd_taules;
+CREATE DATABASE epiz_30388231_bd_taules;
+USE epiz_30388231_bd_taules;
 
 
 CREATE TABLE `tbl_historial` (
